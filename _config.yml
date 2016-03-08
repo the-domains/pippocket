@@ -1,0 +1,28 @@
+name: PIPPOCKET
+favicon: null
+layout_spectrum: 0.31014507240615785
+typography_spectrum: 0.36953506455756724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.36371899489313364
+  lightness: 0.1483913369011134
+  saturation: 0.384558325400576
+  rhythmicContrast: 0.9600982775446028
+purpose: []
